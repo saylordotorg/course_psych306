@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH306: Sensation and Perception"
+course_description: "A detailed introduction to the processes by which we absorb information from environmental stimuli and convert it into data that our brains and bodies use to modify behavior."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: The Visual System: Sensory Mechanisms** <span id="3"></span> 
 *Earlier in this course, we spoke generally about different sense organs
 and the ways in which researchers can test them. We will now take a

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH306: Sensation and Perception"
+course_description: "A detailed introduction to the processes by which we absorb information from environmental stimuli and convert it into data that our brains and bodies use to modify behavior."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Smell, Taste, and Touch** <span id="6"></span> 
 *In this unit, we will discuss the three remaining senses: smell, taste,
 and touch. Though we will only spend one unit on these three senses,

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH306: Sensation and Perception"
+course_description: "A detailed introduction to the processes by which we absorb information from environmental stimuli and convert it into data that our brains and bodies use to modify behavior."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: The Visual System: Perceptual Mechanisms** <span
 id="4"></span> 
 *In this unit, we will look at how humans are able to see and interpret

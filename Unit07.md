@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH306: Sensation and Perception"
+course_description: "A detailed introduction to the processes by which we absorb information from environmental stimuli and convert it into data that our brains and bodies use to modify behavior."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Perceptual Development** <span id="7"></span> 
 *In this final unit, we address one of the most interesting of all
 topics in sensation and perception; that is, how do these processes

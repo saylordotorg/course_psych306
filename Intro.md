@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH306: Sensation and Perception"
+course_description: "A detailed introduction to the processes by which we absorb information from environmental stimuli and convert it into data that our brains and bodies use to modify behavior."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "PSYCH306: Sensation and Perception"
 --------------------------------------------------------
 
