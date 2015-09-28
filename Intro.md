@@ -190,3 +190,4 @@ amount of time you are expected to spend on each subunit.
 - [Unit 6](https://legacy.saylor.org/psych306/Unit06/)
 - [Unit 7](https://legacy.saylor.org/psych306/Unit07/)
 - [Unit 8](https://legacy.saylor.org/psych306/Unit08/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/PSYCH/PSYCH306/PSYCH306-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/PSYCH/PSYCH306/PSYCH306-FinalExam-Answers.html)
