@@ -42,7 +42,7 @@ Upon successful completion of this unit, students will be able to:
     Sensation and Perception”**
     Link: Hanover College: Professor John Krantz’s [“Experiencing
     Sensation and
-    Perception”](http://www.saylor.org/site/wp-content/uploads/2014/05/PSYCH306-Experiencing-Sensation-and-Perception-Chapter-2.pdf) (PDF)  
+    Perception”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/PSYCH306-Experiencing-Sensation-and-Perception-Chapter-2.pdf) (PDF)  
         
      Instructions: Read pages 2.1 to 2.6, up to the section titled
     “Classic Psychophysical Methods.” NOTE: These instructions apply to
@@ -189,7 +189,7 @@ covers this subunit*
     Sensation and Perception”**
     Link: Hanover College: Professor John Krantz’s [“Experiencing
     Sensation and
-    Perception”](http://www.saylor.org/site/wp-content/uploads/2014/05/PSYCH306-Experiencing-Sensation-and-Perception-Chapter-2.pdf) (PDF)  
+    Perception”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/PSYCH306-Experiencing-Sensation-and-Perception-Chapter-2.pdf) (PDF)  
         
      Instructions: Read from the bottom of page 2.6, starting with the
     section titled “Classic Psychophysical Methods” and continuing to
@@ -400,7 +400,7 @@ covers this subunit.*
     Sensation and Perception”**
     Link: Hanover College: Professor John Krantz’s [“Experiencing
     Sensation and
-    Perception”](http://www.saylor.org/site/wp-content/uploads/2014/05/PSYCH306-Experiencing-Sensation-and-Perception-Chapter-2.pdf) (PDF)  
+    Perception”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/PSYCH306-Experiencing-Sensation-and-Perception-Chapter-2.pdf) (PDF)  
         
      Instructions: Read from page 2.14 starting with the section titled
     “Psychophysical Laws” through the end of the document.  
@@ -475,7 +475,7 @@ covers this subunit.*
     Sensation and Perception”**
     Link: Hanover College: Professor John Krantz’s [“Experiencing
     Sensation and
-    Perception”](http://www.saylor.org/site/wp-content/uploads/2014/05/PSYCH306-Experiencing-Sensation-and-Perception-Chapter-2.pdf) (PDF)  
+    Perception”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/PSYCH306-Experiencing-Sensation-and-Perception-Chapter-2.pdf) (PDF)  
         
      Instructions: Read from the section titled “Stevens’ Law” on page
     2.15 to the end of the document.  
