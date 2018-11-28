@@ -41,7 +41,7 @@ Upon successful completion of this unit, students will be able to:
     Smell, and Touch: Lecture Notes”**
     Link: Stanford University: Professor Lera Boroditsky’s [“Taste,
     Smell, and Touch: Lecture
-    Notes”](http://www.saylor.org/site/wp-content/uploads/2011/08/Psych306-Reading-6.1.pdf) (PDF)  
+    Notes”](https://resources.saylor.org/archived/wp-content/uploads/2011/08/Psych306-Reading-6.1.pdf) (PDF)  
         
      Instructions: Click the link above to navigate to the web page and
     read “Section I: Taste.” Do not be concerned if some of the links to
@@ -143,7 +143,7 @@ something that tastes bad to them?*
     Smell, and Touch: Lecture Notes”**
     Link: Stanford University: Professor Lera Boroditsky’s [“Taste,
     Smell, and Touch: Lecture
-    Notes”](http://www.saylor.org/site/wp-content/uploads/2011/08/Psych306-Reading-6.1.pdf) (HTML)  
+    Notes”](https://resources.saylor.org/archived/wp-content/uploads/2011/08/Psych306-Reading-6.1.pdf) (HTML)  
         
      Instructions: Click the link above to navigate to the web page and
     read “Section II: Smell.” Do not be concerned if some of the links
@@ -234,7 +234,7 @@ behavior and interaction?*
     Sensation and Perception”**
     Link: Hanover College: Professor John Krantz’s [“Experiencing
     Sensation and
-    Perception”](http://www.saylor.org/site/wp-content/uploads/2014/05/PSYCH306-Experiencing-Sensation-and-Perception-Chapter-12.pdf) (PDF)  
+    Perception”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/PSYCH306-Experiencing-Sensation-and-Perception-Chapter-12.pdf) (PDF)  
         
      Instructions: Read chapter 12. NOTE: This document is in a
     continuous state of updating. Ignore the internal notes, such as

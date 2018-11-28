@@ -278,7 +278,7 @@ id="3.1.1"></span> 
     Sensation and Perception”**
     Link: Hanover College: Professor John Krantz’s [“Experiencing
     Sensation and
-    Perception”](http://www.saylor.org/site/wp-content/uploads/2014/05/PSYCH306-Experiencing-Sensation-and-Perception-Chapter-3.pdf) (PDF)  
+    Perception”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/PSYCH306-Experiencing-Sensation-and-Perception-Chapter-3.pdf) (PDF)  
         
      Instructions: Read from the section titled “The Eye” near the
     bottom of page 3.3 through “Comparing Eyes” on page 3.7. NOTE: This
@@ -507,7 +507,7 @@ id="3.8.1"></span> 
     Sensation and Perception”**
     Link: Hanover College: Professor John Krantz’s [“Experiencing
     Sensation and
-    Perception”](http://www.saylor.org/site/wp-content/uploads/2014/05/PSYCH306-Experiencing-Sensation-and-Perception-Chapter-4.pdf) (PDF)  
+    Perception”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/PSYCH306-Experiencing-Sensation-and-Perception-Chapter-4.pdf) (PDF)  
         
      Instructions: Read from the section titled “Adaptation in
     General” on page 4.8 to “Acuity” on page 4.10. NOTE: This document

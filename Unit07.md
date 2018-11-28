@@ -58,7 +58,7 @@ Upon successful completion of this unit, students will be able to:
     Sensation and Perception”**
     Link: Hanover College: Professor John Krantz’s [“Experiencing
     Sensation and
-    Perception”](http://www.saylor.org/site/wp-content/uploads/2014/05/PSYCH306-Experiencing-Sensation-and-Perception-Chapter-15.pdf) (PDF)  
+    Perception”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/PSYCH306-Experiencing-Sensation-and-Perception-Chapter-15.pdf) (PDF)  
         
      Instructions: Read the introductory sections of chapter 15. NOTE:
     This document is in a continuous state of updating. Ignore the

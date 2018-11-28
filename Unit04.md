@@ -56,7 +56,7 @@ Upon successful completion of this unit, students will be able to:
     Sensation and Perception”**
     Link: Hanover College: Professor John Krantz’s [“Experiencing
     Sensation and
-    Perception”](http://www.saylor.org/site/wp-content/uploads/2014/05/PSYCH306-Experiencing-Sensation-and-Perception-Chapter-6.pdf) (PDF)  
+    Perception”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/PSYCH306-Experiencing-Sensation-and-Perception-Chapter-6.pdf) (PDF)  
         
      Instructions: Read chapter 6. NOTE: This document is in a
     continuous state of updating. Please ignore the internal notes, such
@@ -336,7 +336,7 @@ subunit.*
     Sensation and Perception”**
     Link: Hanover College: Professor John Krantz’s [“Experiencing
     Sensation and
-    Perception”](http://www.saylor.org/site/wp-content/uploads/2014/05/PSYCH306-Experiencing-Sensation-and-Perception-Chapter-9.pdf) (PDF)  
+    Perception”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/PSYCH306-Experiencing-Sensation-and-Perception-Chapter-9.pdf) (PDF)  
         
      Instructions: Read from “Color Constancy” on page 9.8 to “Visual
     Illusions” on page 9.10. NOTE: This document is in a continuous
@@ -416,7 +416,7 @@ vision.*
     Lecture Notes”**
     Link: Stanford University: Professor Alex Huk’s [“Seeing Motion:
     Lecture
-    Notes”](http://www.saylor.org/site/wp-content/uploads/2011/08/Psych306-Reading-4.3.pdf) (PDF)  
+    Notes”](https://resources.saylor.org/archived/wp-content/uploads/2011/08/Psych306-Reading-4.3.pdf) (PDF)  
         
      Instructions: Click the link above to navigate to the web page and
     read the entire page. Do not be concerned if some of the links to
@@ -475,7 +475,7 @@ still one of the major features of how we perceive movement.*
     Lecture Notes”**
     Link: Stanford University: Professor Alex Huk’s [“Seeing Motion:
     Lecture
-    Notes”](http://www.saylor.org/site/wp-content/uploads/2011/08/Psych306-Reading-4.3.pdf) (HTML)  
+    Notes”](https://resources.saylor.org/archived/wp-content/uploads/2011/08/Psych306-Reading-4.3.pdf) (HTML)  
         
      Instructions: Click the link above to navigate to the web page and
     read the entire page. Do not be concerned if some of the links to
@@ -535,7 +535,7 @@ constantly moving, how do we perceive a basically steady world?*
     Sensation and Perception”**
     Link: Hanover College: Professor John Krantz’s [“Experiencing
     Sensation and
-    Perception”](http://www.saylor.org/site/wp-content/uploads/2014/05/PSYCH306-Experiencing-Sensation-and-Perception-Chapter-8.pdf) (PDF)  
+    Perception”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/PSYCH306-Experiencing-Sensation-and-Perception-Chapter-8.pdf) (PDF)  
         
      Instructions: Read chapter 8. NOTE: This document is in a
     continuous state of updating. Please ignore the internal notes, such
@@ -555,7 +555,7 @@ constantly moving, how do we perceive a basically steady world?*
     Sensation and Perception”**
     Link: Hanover College: Professor John Krantz’s [“Experiencing
     Sensation and
-    Perception”](http://www.saylor.org/site/wp-content/uploads/2014/05/PSYCH306-Experiencing-Sensation-and-Perception-Chapter-8.pdf) (PDF)  
+    Perception”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/PSYCH306-Experiencing-Sensation-and-Perception-Chapter-8.pdf) (PDF)  
         
      Instructions: In turn, click on each of the interactive
     illustrations in chapter 8 and follow the directions. Please ignore
@@ -643,7 +643,7 @@ page \#7.*
     Face Recognition: Lecture Notes”**
     Link: Stanford University: Professor Alex Huk’s [“Object and Face
     Recognition: Lecture
-    Notes”](http://www.saylor.org/site/wp-content/uploads/2011/08/Psych306-Reading-4.6.pdf) (PDF)  
+    Notes”](https://resources.saylor.org/archived/wp-content/uploads/2011/08/Psych306-Reading-4.6.pdf) (PDF)  
         
      Instructions: Click the link above to navigate to the web page and
     read the entire page. Do not be concerned if some of the links to
