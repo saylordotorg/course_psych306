@@ -56,7 +56,7 @@ Upon successful completion of this unit, students will be able to:
     Sensation and Perception”**
     Link: Hanover College: Professor John Krantz’s [“Experiencing
     Sensation and
-    Perception”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/PSYCH306-Experiencing-Sensation-and-Perception-Chapter-10.pdf) (PDF)  
+    Perception”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/PSYCH306-Experiencing-Sensation-and-Perception-Chapter-10.pdf) (PDF)  
         
      Instructions: Read pages 10.2 to 10.5. NOTE: This document is in a
     continuous state of updating. Please ignore the internal notes, such
@@ -427,7 +427,7 @@ to the demonstration.*
     I: Lecture Notes”**
     Link: Stanford University: Professor Lera Boroditsky’s [“Hearing I:
     Lecture
-    Notes”](https://resources.saylor.org/archived/wp-content/uploads/2011/08/Psych306-Reading-5.4.4.pdf) (PDF)  
+    Notes”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/Psych306-Reading-5.4.4.pdf) (PDF)  
         
      Instructions: Click the link above to navigate to the web page and
     read the entire page. Do not be concerned if some of the links to
@@ -460,7 +460,7 @@ id="5.4.8"></span> 
     Sensation and Perception”**
     Link: Hanover College: Professor John Krantz’s [“Experiencing
     Sensation and
-    Perception”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/PSYCH306-Experiencing-Sensation-and-Perception-Chapter-11.pdf) (PDF)  
+    Perception”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/PSYCH306-Experiencing-Sensation-and-Perception-Chapter-11.pdf) (PDF)  
         
      Instructions: Read from page 11.2 to “Music” on page 11.11. NOTE:
     This document is in a continuous state of updating. Ignore the
@@ -545,7 +545,7 @@ id="5.4.8"></span> 
     II: Lecture Notes”**
     Link: Stanford University: Professor Lera Boroditsky’s [“Hearing II:
     Lecture
-    Notes”](https://resources.saylor.org/archived/wp-content/uploads/2011/08/Psych306-Reading-5.5.pdf) (PDF)  
+    Notes”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/Psych306-Reading-5.5.pdf) (PDF)  
         
      Instructions: Click the link above to navigate to the web page and
     read “Section 1: Loudness.” Do not be concerned if some of the links
@@ -596,7 +596,7 @@ unaware of go unnoticed until we pay attention to them?*
     Sensation and Perception”**
     Link: Hanover College: Professor John Krantz’s [“Experiencing
     Sensation and
-    Perception”](https://resources.saylor.org/archived/wp-content/uploads/2014/05/PSYCH306-Experiencing-Sensation-and-Perception-Chapter-11.pdf) (PDF)  
+    Perception”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2014/05/PSYCH306-Experiencing-Sensation-and-Perception-Chapter-11.pdf) (PDF)  
         
      Instructions: Read from “Auditory Space Perception” on page 11.13
     to “Speech” on page 11.19. NOTE: This document is in a continuous
